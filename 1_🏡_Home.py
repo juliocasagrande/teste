@@ -9,3 +9,4 @@ option = st.sidebar.selectbox("Navegar para:", ("Página Inicial", "Página 2", 
 
 st.title("Home")
 st.header(option)
+st.write('teste')
