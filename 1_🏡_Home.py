@@ -5,8 +5,6 @@ st.set_page_config(
     page_title= "Home"
 )
 
-option = st.sidebar.selectbox("Navegar para:", ("Página Inicial", "Página 2", "Página 3"))
-
-st.title("Home")
-st.header(option)
-st.write('teste')
+st.title("Amor da minha vida")
+st.write('Consegui colocar meus programas na net moziiii')
+st.title("FINALMENTE!!!!!")
